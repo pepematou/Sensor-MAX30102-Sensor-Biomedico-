@@ -70,8 +70,8 @@ CRITICAL_TEMP_MAX = 38.0
 # Cooldown antispam: despues de una alerta se esperan 120 segundos para otra.
 ALERT_COOLDOWN_SECONDS = 120
 
-DEFAULT_TELEGRAM_TOKEN = "8730838095:AAFT6HOSVROjM6CLS1gduWEbEvCm3O6Z_ew"
-DEFAULT_TELEGRAM_CHAT_ID = "6132036544"
+DEFAULT_TELEGRAM_TOKEN = "8730838095:AAFT6HOSVROjM6CLS1gduWEbEvCm3O6Z_ew" #@monitor_pulso_bot
+DEFAULT_TELEGRAM_CHAT_ID = ""#ID usuario de Telegram
 
 
 @dataclass
